@@ -1,3 +1,3 @@
 # coolor-error-demo
 
-"working" works as intended, wheras "nonworking" fails to compile. The only difference is the "crossterm" version used.
+This repo was used to demonstrate an issue with [coolor](https://github.com/Canop/coolor). The issue has been solved now.
